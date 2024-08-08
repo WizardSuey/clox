@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.sass": "scss",
+        "stddef.h": "c",
+        "stdint.h": "c",
+        "stdint-gcc.h": "c",
+        "chunk.h": "c",
+        "cstdint": "c",
+        "memory.h": "c",
+        "common.h": "c"
+    }
+}
