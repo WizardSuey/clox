@@ -5,4 +5,6 @@
 #include <stddef.h> // Для макросов NULL и offsetof
 #include <stdint.h> // для платформо-независимых целочисленных типов
 
+#define DEBUG_TRACE_EXECUTION
+
 #endif

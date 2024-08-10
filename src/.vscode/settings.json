@@ -7,6 +7,7 @@
         "chunk.h": "c",
         "cstdint": "c",
         "memory.h": "c",
-        "common.h": "c"
+        "common.h": "c",
+        "debug.h": "c"
     }
 }
